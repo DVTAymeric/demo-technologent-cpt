@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esker-app-manager.esker-app-manager",
+    "eamodio.gitlens",
+    "dotjoshjohnson.xml"
+  ]
+}
